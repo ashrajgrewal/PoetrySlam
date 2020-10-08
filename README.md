@@ -1,2 +1,2 @@
-# PoetrySlam
- CS1.0 PoetrySlam assignment
+PoetrySlam
+CS1.0 PoetrySlam assignment
